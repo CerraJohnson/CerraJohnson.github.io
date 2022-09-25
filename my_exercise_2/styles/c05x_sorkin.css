@@ -1,0 +1,71 @@
+html{
+    background-color: yellow;
+    
+}
+body { 
+    
+	font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    width: 650px;
+    background-color: white;
+    margin:auto;
+    border-style: double;
+    border-width: thick;
+    border-color: blue;
+    
+}
+h1{
+    font-size: 150%;
+    color: blue;
+   
+}
+img{
+    float: left;
+    margin: 15px;
+}
+
+h2{
+    font-size: 125%;
+   
+}
+
+h3{
+    font-size: 115%;
+    
+}
+
+.main{
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+  margin-left: -50px;
+}
+blockquote{
+    margin: auto;
+}
+
+ul{
+    padding-top: 1px;
+    margin: auto;
+}
+
+li{
+    padding-top: -10px;
+}
+
+.footer{
+    border-top: 5px solid blue;
+    text-align: center;
+}
+
+cite{
+    text-align: auto;
+    color: blue;
+    font-style: normal;
+   
+    
+}
+.quote{
+    text-align: right;
+}
